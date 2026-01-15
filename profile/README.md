@@ -42,26 +42,3 @@ We welcome contributions! Check out issues labeled [`bounty`](https://github.com
   <sub>Built by <a href="https://aiventureholdings.com">AI Venture Holdings</a> and contributors worldwide.</sub>
 </p>
 ```
-
----
-
-## Changes Made
-
-1. ✅ Removed `cortex-security` (private)
-2. ✅ Removed `cortex-cli` (redundant with main)
-3. ✅ Added `cortex-backup` and `cortex-distro` (public)
-4. ✅ Fixed bounty link syntax
-5. ✅ Added Pro & Enterprise link
-
----
-
-**Tell Ralph:**
-```
-Fix the org profile README at cortexlinux/.github/profile/README.md:
-
-1. Remove cortex-security from featured repos (it's private)
-2. Fix bounty link: [`bounty`] not [bounty`]
-3. Add "💎 Pro & Enterprise" link to cortexlinux.com/pricing in header
-4. Replace cortex-cli with cortex-backup and cortex-distro
-
-Push the fix.
