@@ -1,50 +1,46 @@
-# 🧠 Cortex Linux
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cortexlinux/cortex/main/images/logo.png" alt="Cortex Linux" width="120" />
+</p>
 
-**The AI-Native Operating System**
+<h1 align="center">Cortex Linux</h1>
 
-Linux that understands you. No documentation required.
-```bash
-$ cortex install "python for machine learning"
-🧠 Analyzing system...
-✅ Python 3.11 + PyTorch + CUDA configured (2m 34s)
-```
+<p align="center">
+  <strong>The AI Layer for Linux</strong> — Natural language system administration.
+</p>
 
-## 🚀 What We're Building
-
-An operating system where AI eliminates the complexity of Linux package management. Tell it what you need in plain English—it handles everything.
-
-**Market:** $50B+ opportunity (10x Cursor's valuation)  
-**Status:** MVP 95% complete, February 2025 seed round  
-**Model:** Open source + Enterprise subscriptions
-
-## 💼 Join Us
-
-**Open Positions:**
-- 🎯 Technical Co-Founder / CTO
-- 💻 Senior Linux Engineers
-- 🤖 AI/ML Engineers
-
-**Contribute & Get Paid:**
-- Browse [bounty issues](https://github.com/cortexlinux/cortex/issues?q=is%3Aissue+is%3Aopen+label%3Abounty)
-- $25-200 per merged PR
-- 2x bonus at funding (Feb 2025)
-
-## 🔗 Links
-
-- **Repository:** [cortexlinux/cortex](https://github.com/cortexlinux/cortex)
-- **Discord:** [Join Community](https://discord.gg/uCqHvxjU83)
-- **Website:** [cortexlinux.com](https://cortexlinux.com)
-
-## 📊 Current Stats
-
-- ⭐ 10 stars (and growing)
-- 🔀 10 forks
-- 👥 8-10 active contributors
-- 📝 20+ open bounty issues
-- ✅ 95% MVP complete
+<p align="center">
+  <a href="https://github.com/cortexlinux/cortex">🔧 Main Repo</a> •
+  <a href="https://cortexlinux.github.io/cortex-docs">📖 Documentation</a> •
+  <a href="https://cortexlinux.com">🌐 Website</a> •
+  <a href="https://discord.gg/uCqHvxjU83">💬 Discord</a>
+</p>
 
 ---
 
-**We're hiring!** Top contributors considered for founding team.
+### Quick Start
 
-⭐ **[Star the repo](https://github.com/cortexlinux/cortex)** to follow development
+```bash
+pip install cortex-linux
+cortex install nginx
+cortex "set up a LAMP stack for development"
+```
+
+### Featured Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [**cortex**](https://github.com/cortexlinux/cortex) | Core CLI - Natural language package management |
+| [**cortex-docs**](https://github.com/cortexlinux/cortex-docs) | Documentation site (MkDocs) |
+| [**cortex-cli**](https://github.com/cortexlinux/cortex-cli) | Standalone CLI distribution |
+| [**cortex-llm**](https://github.com/cortexlinux/cortex-llm) | LLM integrations (Claude, GPT-4, Ollama) |
+| [**cortex-security**](https://github.com/cortexlinux/cortex-security) | Security scanning & hardening |
+
+### Contributing
+
+We welcome contributions! Check out issues labeled [`bounty`](https://github.com/cortexlinux/cortex/labels/bounty) for paid opportunities.
+
+---
+
+<p align="center">
+  <sub>Built by <a href="https://aiventureholdings.com">AI Venture Holdings</a> and contributors worldwide.</sub>
+</p>
